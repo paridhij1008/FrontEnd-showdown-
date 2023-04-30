@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('chronicpain.png');
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    color: #0e0d0d;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    max-width: 600px;
+    margin-left: 20px;
+    padding: 20px;
+  }
+
+  footer {
+    
+    text-align:center;
+    background-color: rgb(49, 47, 46);
+    color: rgb(255, 255, 255);
+  }
